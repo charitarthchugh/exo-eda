@@ -24,11 +24,11 @@ Go to the project directory
   cd exo-eda
 ```
 Create a new virtual environment & install dependencies using:
-- Conda(recommended)
+- Conda
 ```bash
 conda env create -f ./environment.yml
 ```
-- or venv
+- or venv (Recommended)
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate # Change this for your respective shell, if neeeded
