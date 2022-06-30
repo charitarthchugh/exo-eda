@@ -24,11 +24,11 @@ Go to the project directory
   cd exo-eda
 ```
 Create a new virtual environment & install dependencies using:
-- Conda
+- Poetry (recommended)
 ```bash
-conda env create -f ./environment.yml
+poetry install
 ```
-- or venv (Recommended)
+- or venv
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate # Change this for your respective shell, if neeeded
