@@ -240,9 +240,9 @@ mistune==2.0.3; python_version >= "3.7" \
 nbclient==0.6.4; python_full_version >= "3.7.0" and python_version >= "3.7" \
     --hash=sha256:f251bba200a2b401a061dfd700a7a70b5772f664fb49d4a2d3e5536ec0e98c76 \
     --hash=sha256:cdef7757cead1735d2c70cc66095b072dced8a1e6d1c7639ef90cd3e04a11f2e
-nbconvert==6.5.0; python_version >= "3.7" \
-    --hash=sha256:c56dd0b8978a1811a5654f74c727ff16ca87dd5a43abd435a1c49b840fcd8360 \
-    --hash=sha256:223e46e27abe8596b8aed54301fadbba433b7ffea8196a68fd7b1ff509eee99d
+nbconvert==6.5.1; python_version >= "3.7" \
+    --hash=sha256:0a3e224ee753ac4dceeb0257c4a315c069dcc6f9f4ae0ad15c5ea84713d15e28 \
+    --hash=sha256:2c01f3f518fee736c3d3f999dd20e0a16febba17a0d60a3b0fd28fbdec14115d
 nbformat==5.4.0; python_full_version >= "3.7.0" and python_version >= "3.7" \
     --hash=sha256:0d6072aaec95dddc39735c144ee8bbc6589c383fb462e4058abc855348152dad \
     --hash=sha256:44ba5ca6acb80c5d5a500f1e5b83ede8cbe364d5a495c4c8cf60aaf1ba656501
