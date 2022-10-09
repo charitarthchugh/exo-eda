@@ -6,7 +6,7 @@ authors = ["charitarthchugh <37895518+charitarthchugh@users.noreply.github.com>"
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "~3.9"
+python = "^3.9"
 numpy = "^1.23.0"
 pyvo = "^1.3"
 pandas = "^1.4.3"
